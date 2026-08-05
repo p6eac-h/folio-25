@@ -22,14 +22,14 @@ const Contact = (): React.JSX.Element => {
         </TextCopy>{" "}
         or{" "}
         <Link
-          href="https://www.linkedin.com/in/tamta-lomidze-p6each/"
+          href="https://www.linkedin.com/in/tamta-lomidze/"
           aria-label="Visit Tamta Lomidze's LinkedIn profile"
         >
           LinkedIn
         </Link>
         . Explore me on{" "}
         <Link
-          href="https://github.com/peac-h"
+          href="https://github.com/p6eac-h"
           aria-label="Visit Tamta Lomidze on GitHub"
         >
           Github
