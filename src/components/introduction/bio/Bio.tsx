@@ -4,7 +4,7 @@ const Bio = (): React.JSX.Element => {
   return (
     <>
       <h2>
-        A frontend developer at{" "}
+        A full-stack engineer at{" "}
         <Link href="https://leverx.com/" aria-label="Visit LeverX website">
           LeverX
         </Link>
@@ -15,8 +15,8 @@ const Bio = (): React.JSX.Element => {
         >
           VideowindoW
         </Link>
-        , working with international teams across Europe and the USA — remotely
-        from Tbilisi.
+        , building web apps and AI-powered things with teams across Europe and
+        the USA — remotely from Tbilisi.
       </h2>
       <h3>Building things that feel intentional, quiet, and alive.</h3>
     </>

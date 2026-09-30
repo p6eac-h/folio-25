@@ -10,13 +10,18 @@ const Projects = (): React.JSX.Element => {
       </p>
       <p>
         Most of what I work on lives behind closed doors (NDA life) — <br />{" "}
+        <TextStyled $italic>smart glass</TextStyled>, <br />{" "}
         <TextStyled $italic>device networks</TextStyled>, <br />{" "}
         <TextStyled $italic>digital displays</TextStyled>, <br />{" "}
         <TextStyled $italic>risk tools</TextStyled>, <br />{" "}
         <TextStyled $italic>compliance intelligence</TextStyled>, <br />{" "}
-        <TextStyled $italic>survey analytics</TextStyled> <br /> — systems
-        delivered through dashboards, managers, and settings panels, with
-        AI-powered insights used by businesses every day.
+        <TextStyled $italic>survey analytics</TextStyled> <br /> — built front
+        to back, from the pixels down to the APIs, with AI assistants, agents,
+        and smart search woven in. Used by businesses every day.
+      </p>
+      <p>
+        These days, Claude is my pair-programmer — I write the vision, it writes
+        the first draft, I argue with it about naming.
       </p>
     </Wrapper>
   );
